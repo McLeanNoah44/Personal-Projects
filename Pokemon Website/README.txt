@@ -7,7 +7,7 @@ Finally, this is all built on NodeJS and deployed on Heroku.
 
 API links: https://pokeapi.co/docs/v2, https://github.com/PokeAPI/pokedex-promise-v2
 
-YouTube demo video: https://youtu.be/BLxq-8qCnPg
+Link to website: https://finalproj335.herokuapp.com/
 
 NOTE: Due to the nature of the API, for Pokemon with multiple forms (eg. Giratina,
 Deoxys, etc.) you will have to search with the syntax "Pokemon-form". For example, to search one
